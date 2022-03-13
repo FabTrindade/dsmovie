@@ -23,7 +23,7 @@ public class Score {
 		
 	}
 	
-	public void setMovie (User user) {
+	public void setUser (User user) {
 		id.setUser(user);
 		
 	}
