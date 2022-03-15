@@ -38,11 +38,12 @@ function FormCard( {movieId} : Props) {
             url: '/scores',
             data: {
                 email: email,
-                movieId: movieId,
+                movieID: movieId,
                 score: score  
             }
         }
 
+        
         axios(config).then(response => {
            navigate("/");
         });
