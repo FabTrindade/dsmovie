@@ -2,7 +2,7 @@
 
 
 
-This is a project of a web site for film evaluation.
+This is a project of a web site for movie reviews.
 
 *Backend in Java with Spring Tool Suite 4 (STS).
 *Frontend with React.
