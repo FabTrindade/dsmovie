@@ -8,6 +8,10 @@ This is a project of a web site for movie reviews.
 *Frontend with React.
 *Cloud hosting using Netify and Heroku (with PostgreSQL database)
 
+
+PLEASE NOTE: As this website project is hosted on a free cloud service, some page loading delays may occur. Usually these delays are approximately 20 seconds, but only on the first access and, later, it normalizes. 
+
+
 Link: https://fabsdsmovie.netlify.app/
 
 ### Main screen of the developed website:
